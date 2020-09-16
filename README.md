@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Maykol Chang! Nice to meet you~
 
 <!--
 **vPancake7/vPancake7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
