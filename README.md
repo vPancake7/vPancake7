@@ -1,5 +1,9 @@
 ### Hi there 👋 My name is Maykol Chang! Nice to meet you~
 
+Right now I'm a student at Universidad Latina de Panama in Lic. Ing. Sistemas Informaticos.
+I like to learn new stuffs and contents.
+I like turtles.
+
 <!--
 **vPancake7/vPancake7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
