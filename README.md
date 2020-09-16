@@ -5,8 +5,8 @@ I like to learn new stuffs and contents.
 I like turtles. I am a begginer in the programming field.
 
 <details open>
-<summary> <b>Programming Languages that I'm learning are<b></summary>
-  [<img src="https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logo=python&logoColor=white&labelColor=4B8BBE" />]() 
+<summary> <b>Programming Languages that I'm learning <b></summary>
+  <img src="https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logo=python&logoColor=white&labelColor=4B8BBE" />
 
 <!--
 **vPancake7/vPancake7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
