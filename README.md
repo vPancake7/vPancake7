@@ -8,6 +8,7 @@ Right now I'm a student at Universidad Latina de Panama in Lic. Ing. Sistemas In
 <details open>
 <summary> <b>Programming Languages that I'm learning <b></summary>
   <img src="https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logo=python&logoColor=white&labelColor=4B8BBE" />
+  <img src="https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B" />
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
   
