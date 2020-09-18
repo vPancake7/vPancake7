@@ -2,7 +2,7 @@
 
 Right now I'm a student at Universidad Latina de Panama in Lic. Ing. Sistemas Informaticos.
 </br> I like to learn new stuffs and contents.
-</br> I am a begginer in the programming field.
+</br> :computer: I am a begginer in the programming field.
 
 <details open>
 <summary> <b>Programming Languages that I'm learning <b></summary>
