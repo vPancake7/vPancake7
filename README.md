@@ -1,10 +1,20 @@
 <img src="79028211_p0.png" width= 700>
 
-### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Nice to meet you! My name is Maykol Chang! 
+### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Nice to meet you! My name is Maykol Chang!
+
+#### - About Me 💬 :
 
 :man_student: Right now I'm a student at Universidad Latina de Panama in Lic. Ing. Sistemas Informaticos.
 </br> :star: I like to learn new stuffs and contents.
 </br> :computer: I am a begginer in the programming field.
+
+#### - Hobbies :zap: : 
+:video_game: Gaming
+</br> :white_flower: Watching Anime
+</br> :book: Reading Manga
+</br> :runner: Soccer, Table Tennis, Runner
+
+
 
 <details>
 <summary> <b>Programming Languages that I'm learning <b></summary>
