@@ -10,6 +10,7 @@ Right now I'm a student at Universidad Latina de Panama in Lic. Ing. Sistemas In
   <img src="https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logo=python&logoColor=white&labelColor=4B8BBE" />
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
   
   
   ### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Follow me on
