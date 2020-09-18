@@ -1,7 +1,7 @@
 ### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Nice to meet you! My name is Maykol Chang! 
 
-Right now I'm a student at Universidad Latina de Panama in Lic. Ing. Sistemas Informaticos.
-</br> I like to learn new stuffs and contents.
+:man_student: Right now I'm a student at Universidad Latina de Panama in Lic. Ing. Sistemas Informaticos.
+</br> :star: I like to learn new stuffs and contents.
 </br> :computer: I am a begginer in the programming field.
 
 <details open>
